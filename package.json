@@ -25,7 +25,8 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
-    "workbox-webpack-plugin": "^7.0.0"
+    "workbox-webpack-plugin": "^7.0.0",
+    "react-toastify":"10.0.5"
   },
   "scripts": {
     "start": "webpack --config webpack.config.js && serve -s dist"
